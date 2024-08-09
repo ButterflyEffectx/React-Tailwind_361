@@ -7,7 +7,7 @@ function Footer() {
             <div className="md:flex md:justify-between">
                 <div className="mb-6 md:mb-0">
                     <a href="https://flowbite.com/" className="flex items-center">
-                        <img src="https://flowbite.com/docs/images/logo.svg" className="h-8 me-3" alt="FlowBite Logo" />
+                        <img src="https://th.bing.com/th/id/R.ddd1db39fe4289f316bf45be3546a83e?rik=Z5RbbbYDp7AXgQ&riu=http%3a%2f%2f202.28.37.137%2fcss%2fassets%2fimages%2fmju.png&ehk=IoNRwdsMrDiZeHW5VHrdPjehhR%2fLmUeWguTcfC35qEk%3d&risl=&pid=ImgRaw&r=0" className="h-8 me-3" alt="FlowBite Logo" />
                         <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">CSMJU</span>
                     </a>
                 </div>
@@ -27,7 +27,7 @@ function Footer() {
                         <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Follow us</h2>
                         <ul className="text-gray-500 dark:text-gray-400 font-medium">
                             <li className="mb-4">
-                                <a href="https://github.com/themesberg/flowbite" className="hover:underline ">Github</a>
+                                <a href="https://github.com/ButterflyEffectx/React-Tailwind_361" className="hover:underline " target='_blank'>Github</a>
                             </li>
                             <li>
                                 <a href="https://discord.gg/4eeurUVvTy" className="hover:underline">Discord</a>
@@ -49,7 +49,7 @@ function Footer() {
             </div>
             <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
             <div className="sm:flex sm:items-center sm:justify-between">
-                <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://flowbite.com/" className="hover:underline">Flowbite™</a>. All Rights Reserved.
+                <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">❤️ 2024 <a href="https://flowbite.com/" className="hover:underline">Peeraphat™361</a>. All Rights Reserved.
                 </span>
                 <div className="flex mt-4 sm:justify-center sm:mt-0">
                     <a href="#" className="text-gray-500 hover:text-gray-900 dark:hover:text-white">

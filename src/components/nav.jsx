@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { Link } from 'react-router-dom'
 
 function Nav() {
 
@@ -10,12 +11,12 @@ function Nav() {
 
 
   return (
-    <nav className='font-monobg-white border-gray-200 dark:bg-gray-900 p-4 '>
+    <nav className='fixed top-0 left-0 w-full font-monobg-white border-gray-200 dark:bg-gray-900 p-4 shadow-md z-50'>
         <div className="container flex items-center justify-between mx-auto">
-            <a href="https://flowbite.com/" class="flex items-center space-x-3 rtl:space-x-reverse">
+            <Link to="/" class="flex items-center space-x-3 rtl:space-x-reverse">
                 <img src="https://th.bing.com/th/id/R.362662f2d5a81f64df4f638b996db423?rik=BpTay%2ff1FBu5iw&riu=http%3a%2f%2fcsmju.jowave.com%2fnewimages%2fcsmju_logo.gif&ehk=kXHnKW%2bxkGiTukWTaH7uTmOEKWu5lgg6%2fp%2f88lezi60%3d&risl=&pid=ImgRaw&r=0" class="h-8" alt="CSMJU" />
                 <div className="text-white text-2xl font-bold">CS Directory</div>
-            </a>
+            </Link>
             {/* Toggle burgur */}
             <div className="md:hidden">
                 <button id='menu-toggle' className='text-white' onClick={toggleMenu}>
