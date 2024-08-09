@@ -52,7 +52,7 @@ function Nav() {
         
             
             <ul className="hidden md:flex space-x-4">
-                <li><a href="#" className='text-white'>Home</a></li>
+                <li><Link to="/" className='text-white'>Home</Link></li>
                 <li><a href="#" className='text-white'>About</a></li>
                 <li><a href="#" className='text-white'>Contact</a></li>
             </ul>
