@@ -4,6 +4,7 @@ import App from './App.jsx'
 import './index.css'
 import { createBrowserRouter, RouterProvider, Route, Link } from 'react-router-dom'
 import Directory from './Direc.jsx'
+import Profile from './Profile.jsx'
 
 const router = createBrowserRouter([
 
@@ -14,6 +15,10 @@ const router = createBrowserRouter([
   {
     path: 'Direc',
     element: <Directory />
+  },
+  {
+    path: 'Profile',
+    element: <Profile />
   }
 
 

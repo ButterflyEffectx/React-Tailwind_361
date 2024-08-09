@@ -9,7 +9,7 @@ function BodyIndex() {
 
 
                 {/* card */}
-                <div className='flex flex-col md:grid grid-cols-1 md:grid-cols-3 gap-4 my-6 justify-center items-center mx-auto'>
+                <div className='flex flex-col items-center lg:flex-row gap-6 my-6 md:justify-center mx-auto'>
 
                     <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 flex flex-col">
                         <a href="#" className="flex-shrink-0">

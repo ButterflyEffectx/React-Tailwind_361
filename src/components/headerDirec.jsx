@@ -1,19 +1,21 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function HeaderDirec() {
     return (
 
         <>
+        
         <br /><br />
-            <div class="flex justify-center pt-3">
+            <div class="pt-3">
                 <div class="w-full p-4 bg-white border border-gray-200  shadow sm:p-8 dark:bg-gray-800 dark:border-gray-700">
-                    <div class="flex items-center justify-between mb-4">
+                    <div class="container flex items-center justify-between mb-4 mx-auto">
                         <h5 class="text-xl font-bold leading-none text-gray-900 dark:text-white">วิทยาการคอมพิวเตอร์ รุ่นที่ 29</h5>
                         <a href="#" class="text-sm font-medium text-blue-600 hover:underline dark:text-blue-500">
                             View all
                         </a>
                     </div>
-                    <div class="flow-root">
+                    <div class="container flow-root mx-auto">
                         <ul role="list" class="divide-y divide-gray-200 dark:divide-gray-700">
                             <li class="py-3 sm:py-4">
                                 <div class="flex items-center">
@@ -29,7 +31,7 @@ function HeaderDirec() {
                                         </p>
                                     </div>
                                     <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                                        <a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a>
+                                        <Link to="/Profile"><Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link></Link>
                                     </div>
                                 </div>
                             </li>
@@ -47,7 +49,7 @@ function HeaderDirec() {
                                         </p>
                                     </div>
                                     <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                                        <a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a>
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
                                     </div>
                                 </div>
                             </li>
@@ -65,7 +67,7 @@ function HeaderDirec() {
                                         </p>
                                     </div>
                                     <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                                        <a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a>
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
                                     </div>
                                 </div>
                             </li>
@@ -83,7 +85,7 @@ function HeaderDirec() {
                                         </p>
                                     </div>
                                     <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                                        <a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a>
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
                                     </div>
                                 </div>
                             </li>
@@ -101,7 +103,7 @@ function HeaderDirec() {
                                         </p>
                                     </div>
                                     <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                                        <a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a>
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
                                     </div>
                                 </div>
                             </li>
@@ -119,7 +121,7 @@ function HeaderDirec() {
                                         </p>
                                     </div>
                                     <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                                        <a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a>
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
                                     </div>
                                 </div>
                             </li>
@@ -137,7 +139,7 @@ function HeaderDirec() {
                                         </p>
                                     </div>
                                     <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                                        <a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a>
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
                                     </div>
                                 </div>
                             </li>
@@ -155,7 +157,7 @@ function HeaderDirec() {
                                         </p>
                                     </div>
                                     <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                                        <a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a>
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
                                     </div>
                                 </div>
                             </li>
@@ -173,7 +175,7 @@ function HeaderDirec() {
                                         </p>
                                     </div>
                                     <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
-                                        <a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a>
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
                                     </div>
                                 </div>
                             </li>
