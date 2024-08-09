@@ -97,7 +97,7 @@ function Nav() {
         </form>
 
         <ul className="flex flex-col md:hidden items-center">
-            <li className="py-2"><a href="#" className="text-white">Home</a></li>
+            <li className="py-2"><Link to="/" className="text-white">Home</Link></li>
             <li className="py-2"><a href="#" className="text-white">About</a></li>
             <li className="py-2"><a href="#" className="text-white">Contact</a></li>
         </ul>
