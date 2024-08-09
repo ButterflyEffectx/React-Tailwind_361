@@ -1,4 +1,4 @@
-# React + Vite + Tailwind CSS [Peeraphat_361]
+# React + Vite + Tailwind CSS [Peeraphat_361] (Responsive Mobile-First)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
