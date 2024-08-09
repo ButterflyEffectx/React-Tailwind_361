@@ -89,10 +89,10 @@ function HeaderDirec() {
                                     </div>
                                 </div>
                             </li>
-                            <li class="pt-3 pb-0 sm:pt-4">
+                            <li class="py-3 sm:py-4">
                                 <div class="flex items-center ">
                                     <div class="flex-shrink-0">
-                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Thomas image"></img>
+                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Lana image"></img>
                                     </div>
                                     <div class="flex-1 min-w-0 ms-4">
                                         <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
@@ -110,7 +110,7 @@ function HeaderDirec() {
                             <li class="py-3 sm:py-4">
                                 <div class="flex items-center ">
                                     <div class="flex-shrink-0">
-                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Bonnie image"></img>
+                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Lana image"></img>
                                     </div>
                                     <div class="flex-1 min-w-0 ms-4">
                                         <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
@@ -128,7 +128,7 @@ function HeaderDirec() {
                             <li class="py-3 sm:py-4">
                                 <div class="flex items-center ">
                                     <div class="flex-shrink-0">
-                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Bonnie image"></img>
+                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Lana image"></img>
                                     </div>
                                     <div class="flex-1 min-w-0 ms-4">
                                         <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
@@ -146,7 +146,7 @@ function HeaderDirec() {
                             <li class="py-3 sm:py-4">
                                 <div class="flex items-center ">
                                     <div class="flex-shrink-0">
-                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Bonnie image"></img>
+                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Lana image"></img>
                                     </div>
                                     <div class="flex-1 min-w-0 ms-4">
                                         <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
@@ -164,7 +164,97 @@ function HeaderDirec() {
                             <li class="py-3 sm:py-4">
                                 <div class="flex items-center ">
                                     <div class="flex-shrink-0">
-                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Bonnie image"></img>
+                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Lana image"></img>
+                                    </div>
+                                    <div class="flex-1 min-w-0 ms-4">
+                                        <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                                            6604101361
+                                        </p>
+                                        <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                                            พีระพัฒน์ มิคะนุช
+                                        </p>
+                                    </div>
+                                    <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-3 sm:py-4">
+                                <div class="flex items-center ">
+                                    <div class="flex-shrink-0">
+                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Lana image"></img>
+                                    </div>
+                                    <div class="flex-1 min-w-0 ms-4">
+                                        <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                                            6604101361
+                                        </p>
+                                        <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                                            พีระพัฒน์ มิคะนุช
+                                        </p>
+                                    </div>
+                                    <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-3 sm:py-4">
+                                <div class="flex items-center ">
+                                    <div class="flex-shrink-0">
+                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Lana image"></img>
+                                    </div>
+                                    <div class="flex-1 min-w-0 ms-4">
+                                        <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                                            6604101361
+                                        </p>
+                                        <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                                            พีระพัฒน์ มิคะนุช
+                                        </p>
+                                    </div>
+                                    <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-3 sm:py-4">
+                                <div class="flex items-center ">
+                                    <div class="flex-shrink-0">
+                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Lana image"></img>
+                                    </div>
+                                    <div class="flex-1 min-w-0 ms-4">
+                                        <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                                            6604101361
+                                        </p>
+                                        <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                                            พีระพัฒน์ มิคะนุช
+                                        </p>
+                                    </div>
+                                    <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-3 sm:py-4">
+                                <div class="flex items-center ">
+                                    <div class="flex-shrink-0">
+                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Lana image"></img>
+                                    </div>
+                                    <div class="flex-1 min-w-0 ms-4">
+                                        <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                                            6604101361
+                                        </p>
+                                        <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                                            พีระพัฒน์ มิคะนุช
+                                        </p>
+                                    </div>
+                                    <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                                        <Link to="/Profile"><a href="#" className='hover:text-blue-700'>ดูโปรไฟล์</a></Link>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="py-3 sm:py-4">
+                                <div class="flex items-center ">
+                                    <div class="flex-shrink-0">
+                                        <img class="w-8 h-8 rounded-full" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYCzdPyNtDjznPbzh0p5fflLb2X6ET5BnYIdvH_jDSeHPQ&oe=66DD7264" alt="Lana image"></img>
                                     </div>
                                     <div class="flex-1 min-w-0 ms-4">
                                         <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
