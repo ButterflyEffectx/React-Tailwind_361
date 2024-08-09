@@ -10,8 +10,8 @@ function Nav() {
 
 
   return (
-    <nav className='font-monobg-white border-gray-200 dark:bg-gray-900 p-4'>
-        <div className="flex items-center justify-between">
+    <nav className='font-monobg-white border-gray-200 dark:bg-gray-900 p-4 '>
+        <div className="flex items-center justify-between ">
             <a href="https://flowbite.com/" class="flex items-center space-x-3 rtl:space-x-reverse">
                 <img src="https://th.bing.com/th/id/R.362662f2d5a81f64df4f638b996db423?rik=BpTay%2ff1FBu5iw&riu=http%3a%2f%2fcsmju.jowave.com%2fnewimages%2fcsmju_logo.gif&ehk=kXHnKW%2bxkGiTukWTaH7uTmOEKWu5lgg6%2fp%2f88lezi60%3d&risl=&pid=ImgRaw&r=0" class="h-8" alt="CSMJU" />
                 <div className="text-white text-2xl font-bold">CS Directory</div>
