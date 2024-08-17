@@ -4,6 +4,7 @@ import Nav from './components/nav'
 import Footer from './components/footer'
 import BodyIndex from './components/bodyindex'
 
+
 function Profile() {
 
   return (
@@ -12,7 +13,7 @@ function Profile() {
         <Nav />
         
 
-        <section class="bg-center bg-no-repeat bg-[url('https://scontent.fbkk13-2.fna.fbcdn.net/v/t39.30808-6/428395299_873721081215815_6431220037437957079_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_ohc=cZdKM1g82CIQ7kNvgGzYwH6&_nc_ht=scontent.fbkk13-2.fna&oh=00_AYAtLL_1Da5dk0wuT8h816rWZBEHaSRDVYfbXuGqD1qk4A&oe=66BC0FB4')] bg-gray-700 bg-blend-multiply">
+        <section class="bg-center bg-no-repeat bg-[url('.\images\bg1.jpg')] bg-gray-700 bg-blend-multiply">
             <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
                 <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Computer Science</h1>
                 <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">- MAEJO UNIVERSITY -</p>
