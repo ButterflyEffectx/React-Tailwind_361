@@ -5,6 +5,7 @@ import './index.css'
 import { createBrowserRouter, RouterProvider, Route, Link } from 'react-router-dom'
 import Directory from './Direc.jsx'
 import Profile from './Profile.jsx'
+import TestPage from './testpage.jsx'
 
 const router = createBrowserRouter([
 
@@ -12,13 +13,20 @@ const router = createBrowserRouter([
     path: '/',
     element: <App />
   },
+
   {
     path: 'Direc',
     element: <Directory />
   },
+
   {
     path: 'Profile',
     element: <Profile />
+  },
+
+  {
+    path: 'TestPage',
+    element: <TestPage />
   }
 
 
