@@ -13,7 +13,7 @@ function Profile() {
         <Nav />
         
 
-        <section class="bg-center bg-no-repeat bg-[url('.\images\bg1.jpg')] bg-gray-700 bg-blend-multiply">
+        <section class="bg-center bg-no-repeat bg-[url('https://scontent.fcnx4-1.fna.fbcdn.net/v/t39.30808-6/428395299_873721081215815_6431220037437957079_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeFKKX2FicScVEGw-V6J_X4WJ9qg_OMH6ggn2qD84wfqCC7thZezGrIQi7VULcYfEHZFh_DKTle_PHOsPTKSO1cB&_nc_ohc=QwFRy6ezvIQQ7kNvgGQDWIN&_nc_ht=scontent.fcnx4-1.fna&oh=00_AYDjCKiE8rDA6egTSu2oj_uFVrzFDwvYr13cJof95lOsBQ&oe=66C66374')] bg-gray-700 bg-blend-multiply">
             <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
                 <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Computer Science</h1>
                 <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">- MAEJO UNIVERSITY -</p>
