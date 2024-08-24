@@ -3,6 +3,7 @@ import './App.css'
 import Nav from './components/nav'
 import Footer from './components/footer'
 import BodyIndex from './components/bodyindex'
+import './style.css'
 
 
 function Profile() {
@@ -13,7 +14,7 @@ function Profile() {
         <Nav />
         
 
-        <section class="bg-center bg-no-repeat bg-[url('https://scontent.fcnx4-1.fna.fbcdn.net/v/t39.30808-6/428395299_873721081215815_6431220037437957079_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeFKKX2FicScVEGw-V6J_X4WJ9qg_OMH6ggn2qD84wfqCC7thZezGrIQi7VULcYfEHZFh_DKTle_PHOsPTKSO1cB&_nc_ohc=QwFRy6ezvIQQ7kNvgGQDWIN&_nc_ht=scontent.fcnx4-1.fna&oh=00_AYDjCKiE8rDA6egTSu2oj_uFVrzFDwvYr13cJof95lOsBQ&oe=66C66374')] bg-gray-700 bg-blend-multiply">
+        <section id="Heros" class="bg-center bg-gray-700 bg-blend-multiply" >
             <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
                 <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Computer Science</h1>
                 <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">- MAEJO UNIVERSITY -</p>
@@ -26,7 +27,7 @@ function Profile() {
             <h1 className='flex justify-center text-3xl font-semibold mb-3'>รายละเอียดข้อมูล</h1>
         </div>
 
-        <div class=" w-3/5 justify-center mx-auto my-5 w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class=" w-3/5 justify-center mx-auto my-5 md:w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="#">
                 <img class="p-7 rounded-t-lg" src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t1.6435-9/67521346_472102283639740_2057127547660926976_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=SO1CmzdZ1dcQ7kNvgGW0LUy&_nc_ht=scontent.fbkk8-4.fna&oh=00_AYBRr79S_HJhjz5PMQ-u9naej9R2LAZr-jun2tYImHiK9A&oe=66DDAAA4" alt="product image" />
             </a>
